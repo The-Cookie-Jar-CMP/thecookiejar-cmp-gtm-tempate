@@ -1,5 +1,5 @@
 homepage: "https://cookieconsentjar.com/"
 documentation: "https://cookieconsentjar.com/docs/"
 versions:
-  - sha: 0b8d004e15a175f444064f671346b0de7b4e3f92
+  - sha: 60462c7564c424eb2a5345271d0c5bd40fef5acd
     changeNotes: Initial release.
