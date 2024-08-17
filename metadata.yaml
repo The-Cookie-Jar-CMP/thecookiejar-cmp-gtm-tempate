@@ -5,3 +5,5 @@ versions:
     changeNotes: Initial release.
   - sha: 7f8ddcaff194269c00de20a0215f4c9e7960b34e
     changeNotes: Added flag for initialization
+  - sha: 31d2d0d514a500d4e02d6f3981ce1384c9c2ae8d
+    changeNotes: Updated categories and display name in the metadata
