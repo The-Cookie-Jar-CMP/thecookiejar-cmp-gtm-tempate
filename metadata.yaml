@@ -3,3 +3,5 @@ documentation: "https://cookieconsentjar.com/docs/"
 versions:
   - sha: 60462c7564c424eb2a5345271d0c5bd40fef5acd
     changeNotes: Initial release.
+  - sha: 7f8ddcaff194269c00de20a0215f4c9e7960b34e
+    changeNotes: Added flag for initialization
